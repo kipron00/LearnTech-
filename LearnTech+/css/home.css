@@ -73,7 +73,7 @@ div.students {
     color: white;
     position: absolute;
     top: 212px;
-    left: 250px;
+    left: 100px;
 }
 
 div.reviews {
@@ -84,7 +84,7 @@ div.reviews {
     color: white;
     position: absolute;
     top: 212px;
-    left: 600px;
+    left: 450px;
 }
 
 div.courses {
@@ -95,7 +95,7 @@ div.courses {
     color: white;
     position: absolute;
     top: 212px;
-    left: 951px;
+    left: 800px;
 }
 
 div.content {
@@ -106,7 +106,7 @@ div.content {
     color: white;
     position: absolute;
     top: 212px;
-    left: 1301px;
+    left: 1200px;
 }
 
 /* Learn Tech */
